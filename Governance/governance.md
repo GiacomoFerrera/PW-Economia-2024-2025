@@ -139,7 +139,6 @@ Al 31 dicembre 2024, le principali cariche sociali di Avolta AG sono le seguenti
 
 ## Responsabilità Sociale (?)
 
-
 bibliografia: 
 [avolta governance report 2024](https://www.avoltaworld.com/system/files/2025-03/Corporate_Governance_Report_2024.pdf)  
 [Autogrill governance 2022](https://www.autogrill.com/sites/default/files/relazione_cg_esercizio_2022.pdf)  
