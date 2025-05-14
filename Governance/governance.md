@@ -41,6 +41,7 @@ Catena di gioiellerie attiva nei Caraibi e in America Latina.
 
 **Autogrill**
   Marchio storico italiano della ristorazione per viaggiatori, attivo in autostrade, aeroporti e stazioni.
+   [info persone in autogrill](https://www.consob.it/web/area-pubblica/w/autogrill-spa-organi-sociali?redirect=%2Fweb%2Farea-pubblica%2Fricerca-quotate%3Fp_p_id%3Dit_consob_QuotateRicercaPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_it_consob_QuotateRicercaPortlet_cur%3D11%26_it_consob_QuotateRicercaPortlet_resetCur%3Dfalse%26_it_consob_QuotateRicercaPortlet_delta%3D60)
 
 **HMSHost**
 Specializzata nella ristorazione in aeroporti e aree di servizio, con forte presenza in Nord America e Europa. ([Wikipedia][2])
