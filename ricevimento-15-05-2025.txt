@@ -23,3 +23,6 @@
 5) Se volessimo includere anche l’analisi dei flussi di ricavi, come suggerito nei moduli, ci consiglia di 
    prendere in esame i bilanci consolidati pre-fusione di Autogrill o già quelli consolidati di Avolta, anche 
    se la fusione è molto recente e i bilanci disponibili sono ancora parziali?
+
+6) Nel caso in cui ci richieda di effettuare l'analisi sul gruppo di avolta:
+	Ritiene quindi necessaria l'analisi finanziaria sul rendimento prima e dopo l'entrata nel gruppo di Autogrill? 
