@@ -37,6 +37,44 @@ Catena di gioiellerie attiva nei Caraibi e in America Latina.
 **Duty Free Uruguay** e **Duty Free Shop Argentina**
  Operatori di negozi duty-free in Sud America. ([Wikipedia][1])
 
+##### Prompt chatgpt 5:
+Società controllate da Avolta AG (2025) – solo entità attive (sono escluse società fuse/cessate/vendute):
+Hudson (Stati Uniti) – Operatore di travel retail (negozi aeroportuali di convenienza, edicole, ecc.) principalmente in Nord America. Rapporto con Avolta: controllata al 100% (Hudson fa parte del gruppo Avolta come divisione retail nordamericana)
+hudsongroup.com
+.
+HMSHost (USA/Paesi Bassi) – Società leader nella ristorazione travel (Food & Beverage), con sede negli USA e filiale internazionale (HMSHost International) nei Paesi Bassi, opera ristoranti e bar in aeroporti, autostrade e altri luoghi di viaggio. Rapporto con Avolta: controllata al 100% (principale divisione F&B di Avolta, ereditata dall’ex Autogrill)
+avoltaworld.com
+.
+World Duty Free (World Duty Free Group) (Spagna/Italia/UK) – Società operante nel travel retail duty-free, originariamente con base in Spagna (World Duty Free Group S.A.U.) e presenza in vari paesi (inclusa l’Italia, dove World Duty Free S.p.A. ha incorporato Autogrill S.p.A. dopo la fusione del 2023). Rapporto con Avolta: controllata al 100% (acquisita da Dufry nel 2015; oggi parte integrante del gruppo Avolta)
+avoltaworld.com
+autogrill.com
+.
+The Nuance Group (Svizzera) – Società internazionale con sede in Svizzera attiva nel travel retail (duty-free e negozi specializzati in aeroporti). Rapporto con Avolta: controllata al 100% (acquisita da Dufry nel 2014, integrata nel portafoglio Avolta)
+avoltaworld.com
+.
+Hellenic Duty Free Shops (Grecia) – Operatore leader nel travel retail in Grecia, gestisce negozi duty-free in aeroporti, porti e aree turistiche greche. Rapporto con Avolta: controllata a maggioranza (Dufry/Avolta ne ha acquisito inizialmente il 51% nel 2012, consolidandola nel gruppo)
+avoltaworld.com
+.
+RegStaer (Russia) – Operatore di duty-free retail negli aeroporti russi (incluso Vnukovo a Mosca). Rapporto con Avolta: joint venture controllata (Avolta detiene il 60% delle quote tramite la sua JV locale, esercitando il controllo operativo)
+ceelegalmatters.com
+.
+Duty Free Shop Argentina (Argentina) – Società attiva nel travel retail aeroportuale in Argentina (gestisce negozi duty-free negli scali argentini, ex Interbaires). Rapporto con Avolta: controllata al 100% (acquisita da Dufry nel 2011 e pienamente integrata)
+avoltaworld.com
+.
+Duty Free Uruguay (Uruguay) – Principale operatore di travel retail duty-free in Uruguay, con negozi negli aeroporti del Paese. Rapporto con Avolta: controllata al 100% (acquisita da Dufry nel 2011 nell’espansione in Sud America)
+avoltaworld.com
+.
+Colombian Emeralds International (sede nei Caraibi, es. Barbados) – Retailer specializzato in gioielleria di lusso e orologi nel mercato travel retail caraibico (oltre 60 punti vendita in isole caraibiche, America Centrale e navi da crociera). Rapporto con Avolta: divisione interamente controllata del gruppo (acquisita da Dufry e oggi parte di Avolta)
+barbados-guide.com
+.
+Canariensis (Isole Canarie, Spagna) – Società travel retail operante nei duty-free degli aeroporti canari, nata come joint venture tra un partner locale e World Duty Free. Rapporto con Avolta: partecipazione controllata in partnership (Canariensis è considerata sussidiaria di Avolta/Dufry per le concessioni duty-free nelle Canarie)
+moodiedavittreport.com
+.
+Eurotrade (Brasile) – Società di logistica e approvvigionamento per il travel retail (ex piattaforma acquisti del gruppo brasiliano Brasif). Rapporto con Avolta: controllata al 100% (acquisita da Dufry nel 2006 insieme a Brasif, per potenziare la rete logistica nelle Americhe)
+en.wikipedia.org
+.
+Each bullet provides the company name, country of registration, sector of activity, and the relationship with Avolta AG, along with references from reliable sources as requested.
+
 #### **Food & Beverage**
 
 **Autogrill**
