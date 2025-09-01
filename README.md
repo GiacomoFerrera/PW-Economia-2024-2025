@@ -2,17 +2,17 @@
 
 - [Avolta (edizione)](https://www.edizione.com/it/investimenti/il-nostro-portafoglio/realta-industriali/avolta) (intro)
 
-- [Avolta MarketScreener](ihttps://it.marketscreener.com/quotazioni/azione/AVOLTA-AG-120794385/azienda/) (intro)
+- [Avolta MarketScreener](https://it.marketscreener.com/quotazioni/azione/AVOLTA-AG-120794385/azienda/) (intro)
 
-- [Responsabilità Sociale Avolta](https://www.avoltaworld.com/en/our-impact/sustainability-strategy)
+- [Responsabilità Sociale Avolta](https://www.avoltaworld.com/en/our-impact/sustainability-strategy) (social responsab)
 
-- [Sustainable travel exp](https://www.avoltaworld.com/en/our-impact/sustainability-strategy/customer-focus)
+- [Sustainable travel exp](https://www.avoltaworld.com/en/our-impact/sustainability-strategy/customer-focus) (social responsab)
 
-- [Respect our planet](https://www.avoltaworld.com/en/our-impact/sustainability-strategy/protecting-environment)
+- [Respect our planet](https://www.avoltaworld.com/en/our-impact/sustainability-strategy/protecting-environment) (social responsab)
 
-- [The Article of Incorporation of Avolta AG](https://www.avoltaworld.com/sites/default/files/document/2025-05/Articles%20of%20Incorporation_Post-AGM%202025%20%28May%2014%2C%202025%29.pdf)
+- [The Article of Incorporation of Avolta AG](https://www.avoltaworld.com/sites/default/files/document/2025-05/Articles%20of%20Incorporation_Post-AGM%202025%20%28May%2014%2C%202025%29.pdf) (organi sociali)
 
-- [The Article of Board Regulations AG](https://www.avoltaworld.com/sites/default/files/document/2025-05/Articles%20of%20Incorporation_Post-AGM%202025%20%28May%2014%2C%202025%29.pdf)
+- [The Article of Board Regulations AG](https://www.avoltaworld.com/sites/default/files/document/2025-05/Articles%20of%20Incorporation_Post-AGM%202025%20%28May%2014%2C%202025%29.pdf) (organi sociali)
 
 
 # Parte I: introduzione (prime 2 slide)
